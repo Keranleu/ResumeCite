@@ -1,0 +1,39 @@
+* {outline: red;}
+html {box-sizing: border-box; background-color: #444;}
+*, *:before, *:after {box-sizing: inherit;}
+
+header, section {padding: 0 40px;}
+#wrap {width: 100%; max-width: 800px; margin: 0 auto; background-color: white;}
+
+header {background-color: lightblue;}
+header h1 {margin-bottom: 0; text-align: center; padding-top: 4%;}
+header h4 {margin-top: 0; text-align: center; margin-bottom: 40px; padding-bottom: 4%; padding-top: 2%;}
+li {padding-bottom: 2%;}
+footer {text-align: center; padding-bottom: .2%;}
+ul {margin: 0 auto;
+    font-family: "Lato", sans-serif;
+    font-weight: 300;
+    font-style: normal;
+    }
+
+h1 {    font-family: "Lato", sans-serif;
+    font-weight: 100;
+    font-style: normal;
+}
+
+h2 {    
+    color: #888;
+    font-family: "Lato", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+}
+
+h3 {       font-family: "Lato", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+}
+
+h4 {        font-family: "Lato", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
